@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1418072914 source:c:\users\jihen\desktop\unoooooooo\affichecarte.c
+
+1418072841 source:c:\users\jihen\desktop\unoooooooo\case.c
+
+1418059900 source:c:\users\jihen\desktop\unoooooooo\exite.c
+
+1418074722 source:c:\users\jihen\desktop\unoooooooo\foction affiche.c
+
+1418075982 source:c:\users\jihen\desktop\unoooooooo\graf.c
+
+1417681308 source:c:\users\jihen\desktop\unoooooooo\joker.c
+
+1416735038 source:c:\users\jihen\desktop\unoooooooo\joueuur.c
+
+1418072853 source:c:\users\jihen\desktop\unoooooooo\logic.c
+
+1415817484 source:c:\users\jihen\desktop\unoooooooo\random.c
+	<time.h>
+
+1417998381 source:c:\users\jihen\desktop\unoooooooo\remarque.c
+
+1418073124 source:c:\users\jihen\desktop\unoooooooo\score.c
+
+1417952365 source:c:\users\jihen\desktop\unoooooooo\sg.c
+
+1418069204 source:c:\users\jihen\desktop\unoooooooo\smile.c
+
+1416951070 source:c:\users\jihen\desktop\unoooooooo\verif.c
+
+1418214390 source:c:\users\jihen\desktop\unoooooooo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fichiers.h"
+
+1418073379 c:\users\jihen\desktop\unoooooooo\fichiers.h
+
